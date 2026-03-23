@@ -5,3 +5,7 @@ scikit-learn
 seaborn
 scipy
 pyarrow
+nltk
+wordcloud
+gensim
+textblob
